@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int A[10],index[10], i, j, k, n;
-	cout<<"Masukan Jumlah Pemgulangan Data:";
+	cout<<"Masukan Jumlah Pengulangan Data:";
 	cin>>n;
 	cout<<"\n";
 	
